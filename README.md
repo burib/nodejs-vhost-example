@@ -1,4 +1,9 @@
-nodejs_vhost_example
+nodejs vhost example
 ====================
 
-nodejs vhost example using expressjs
+How to handle **subDomain requests** in a nodeJs based **express v4.x** application.
+
+####Dependencies:
+
+ - express 4.x (https://github.com/strongloop/express)
+ - vhost middleware (https://github.com/expressjs/vhost) 
